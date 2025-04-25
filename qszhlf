@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Kumpulan Kami</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f7f7f7;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #333;
+    }
+    .card {
+      background-color: #fff;
+      padding: 20px;
+      margin: 20px auto;
+      width: 80%;
+      max-width: 500px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      text-align: left;
+    }
+  </style>
+</head>
+<body>
+  <h1>STUDENT INFORMATION</h1>
+
+  <div class="card">
+    <strong>NAME:</strong> BALQIS BINTI TAN LEKHA @ MALEK<br>
+    <strong>MATRIX NUMBER:</strong> 01DDT23F1005
+  </div>
+
+  <div class="card">
+    <strong>NAME:</strong> NUR AIN HANISAH BINTI ZAKARIA<br>
+    <strong>MATRIX NUMBER:</strong> 01DDT23F1094
+  </div>
+
+  <div class="card">
+    <strong>NAME:</strong> SYAMEEN WAFA BINTI ROSHIDI<br>
+    <strong>MATRIX NUMBER:</strong> 01DDT23F1136
+  </div>
+
+  <div class="card">
+    <strong>NAME:</strong> NURADILLA ZULAIKHA BINTI AZLAN<br>
+    <strong>MATRIX NUMBER:</strong> 01DDT23F1123
+  </div>
+</body>
+</html>
